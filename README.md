@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.bing.com/images/search?view=detailV2&ccid=yw0TnheA&id=08CD3519F558BCE395AB9BE224FF19FAA264ABE4&thid=OIP.yw0TnheAGN-LPneDaTlaxwHaD8&mediaurl=https%3a%2f%2fwww.aalpha.net%2fwp-content%2fuploads%2f2020%2f12%2ffull-stack-development.gif&exph=400&expw=750&q=developer+gif&simid=608055768875947303&FORM=IRPRST&ck=03F89F713D7A7914A31323CEDA507720&selectedIndex=13" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikas</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>

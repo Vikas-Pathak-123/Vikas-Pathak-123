@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Rashtriya Swasthya Sangathan](https://arpit697.github.io/RSS/index.html/)**
+- 🔭 I’m currently working on **[Rashtriya Swasthya Sangathan](https://arpit697.github.io/RSS/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 

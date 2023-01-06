@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Rashtriya Swasthya Sangathan](https://arpit697.github.io/RSS/)**
+- 🔭 I’m currently working on **[Rashtriya Swasthya Sangathan]([https://arpit697.github.io/RSS/](https://www.rashtriyaswasthyasangathan.org/))**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Vikas-Pathak-123)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://portfolio-alpha-bice-58.vercel.app/#about)**
 
 - 📫 How to reach me **123vikas.vp79@gmail.com**
 

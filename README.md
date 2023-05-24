@@ -63,7 +63,7 @@
 
 <a href="https://github.com/Vikas-Pathak-123/github-readme-activity-graph"><img alt="Vikas Pathak's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Vikas-Pathak-123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br/>
 
 <br/>

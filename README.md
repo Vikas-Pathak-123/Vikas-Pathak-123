@@ -63,7 +63,7 @@
 
 <a href="https://github.com/Vikas-Pathak-123/github-readme-activity-graph"><img alt="Vikas Pathak's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Vikas-Pathak-123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
-[![Vikas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vikas-Pathak-123&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/Vikas-Pathak-123/github-readme-activity-graph)
+[![Vikas's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vikas-Pathak-123)](https://github.com/Vikas-Pathak-123/github-readme-activity-graph)
 <br/>
 
 <br/>
